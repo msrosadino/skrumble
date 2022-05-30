@@ -1,0 +1,5 @@
+ENV_APP_ID = shigJB9XCez1AUJ6AHUPzNJoVwUU6NcXzS7YgLsl
+ENV_CLIENT_KEY = QLYmVcIzynRKHXlN70IXExKHOxTE5QD6Wh6k2wbQ
+ENV_MASTER_KEY = Dh87Pk2v6QcWp2r4VpsyylSdWoJoU1eaKb6Hlsrm
+ENV_SERVER_URL = https://parseapi.back4app.com
+ENV_LIVE_QUERY_URL = wss://scrumble.b4a.io 
